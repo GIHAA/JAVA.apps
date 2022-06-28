@@ -4,8 +4,12 @@
 javac app.java
 java app
 ```
-### BMI calulator
+### 🏋️ BMI calulator
+<hr>
 <img src = "./BMI calculator/img.JPG">
 
-### File spammer
+<br>
+
+### 📁 File spammer
+<hr>
 <img src = "./File spammer/img.png">
