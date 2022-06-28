@@ -4,7 +4,7 @@
 javac app.java
 java app
 ```
-### 🏋️ BMI calulator
+### 🏋️ BMI calculator
 <hr>
 <img src = "./BMI calculator/img.JPG">
 
