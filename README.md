@@ -14,7 +14,7 @@ java app
 
 ### 📱 Scientific Calculator
 <hr>
-<img src = "./scientific calculator/img.JPG">
+<img width="250" src = "./scientific calculator/img.JPG">
 
 
 <br>
